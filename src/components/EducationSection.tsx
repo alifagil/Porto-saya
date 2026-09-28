@@ -37,8 +37,7 @@ export function EducationSection() {
           isInView ? 'animate-fade-in-up' : 'opacity-0'
         }`}
         style={{ animationDelay: '0.2s' }}
-      >
-        EDUCATION <span className="font-mondwest italic font-normal text-[#6C8EFF]"></span>
+      ><span className="font-mondwest italic font-normal text-[#6C8EFF]">EDUCATION</span>
       </h2>
 
       {/* Clean Minimalist List inside Dark Card */}
