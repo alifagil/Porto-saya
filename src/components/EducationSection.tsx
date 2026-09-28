@@ -38,7 +38,7 @@ export function EducationSection() {
         }`}
         style={{ animationDelay: '0.2s' }}
       >
-        Riwayat <span className="font-mondwest italic font-normal text-[#6C8EFF]">Pendidikan</span>
+        EDUCATION <span className="font-mondwest italic font-normal text-[#6C8EFF]"></span>
       </h2>
 
       {/* Clean Minimalist List inside Dark Card */}
