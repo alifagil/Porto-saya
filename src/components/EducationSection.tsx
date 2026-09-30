@@ -28,7 +28,7 @@ export function EducationSection() {
         }`}
         style={{ animationDelay: '0.1s' }}
       >
-        Latar Belakang
+        Education Background
       </div>
 
       {/* Heading */}
